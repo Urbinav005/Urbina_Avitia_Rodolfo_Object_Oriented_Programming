@@ -1,0 +1,7 @@
+--- REPORTE DE PRODUCTOS ---
+ID: 1 | Nombre: Control inalámbrico Pro | Precio: $1,299.00 | Stock: 20
+ID: 2 | Nombre: Auriculares gamer 7.1 | Precio: $1,599.00 | Stock: 15
+ID: 3 | Nombre: Teclado mecánico RGB | Precio: $1,799.00 | Stock: 12
+ID: 4 | Nombre: Mouse gamer 16000 DPI | Precio: $899.00 | Stock: 25
+ID: 5 | Nombre: Tarjeta de regalo $500 | Precio: $500.00 | Stock: 50
+--- Total de productos: 5 ---

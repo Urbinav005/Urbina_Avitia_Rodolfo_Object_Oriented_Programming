@@ -1,0 +1,2 @@
+fpdf
+mysql-connector-python

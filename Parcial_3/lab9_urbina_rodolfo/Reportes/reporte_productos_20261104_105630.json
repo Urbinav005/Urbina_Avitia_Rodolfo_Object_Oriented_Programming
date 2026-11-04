@@ -1,0 +1,32 @@
+[
+    {
+        "id_product": 1,
+        "nombre": "Control inalámbrico Pro",
+        "precio": 1299.0,
+        "stock": 20
+    },
+    {
+        "id_product": 2,
+        "nombre": "Auriculares gamer 7.1",
+        "precio": 1599.0,
+        "stock": 15
+    },
+    {
+        "id_product": 3,
+        "nombre": "Teclado mecánico RGB",
+        "precio": 1799.0,
+        "stock": 12
+    },
+    {
+        "id_product": 4,
+        "nombre": "Mouse gamer 16000 DPI",
+        "precio": 899.0,
+        "stock": 25
+    },
+    {
+        "id_product": 5,
+        "nombre": "Tarjeta de regalo $500",
+        "precio": 500.0,
+        "stock": 50
+    }
+]
