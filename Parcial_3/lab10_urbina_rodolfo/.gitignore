@@ -1,0 +1,14 @@
+# Archivos generados por Python / pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Reportes generados por la app (se crean al exportar)
+Reportes/
+
+# Salida de prueba generada en Linux (no es la evidencia)
+tests/resultado_pytest.txt
